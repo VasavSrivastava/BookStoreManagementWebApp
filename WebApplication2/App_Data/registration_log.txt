@@ -1,0 +1,3 @@
+2024-11-17 04:13:41|abc|True|Registration successful|::1
+2024-11-17 07:02:32|123|True|Registration successful|::1
+2024-11-17 07:33:22|addy|True|Registration successful|::1

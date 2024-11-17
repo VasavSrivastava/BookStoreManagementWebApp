@@ -1,0 +1,49 @@
+2024-11-17 03:18:10|aofj|False|Invalid credentials|::1
+2024-11-17 04:13:23|abc|False|Invalid credentials|::1
+2024-11-17 04:13:50|abc|True|Login successful|::1
+2024-11-17 04:13:50|abc|False|Error: Thread was being aborted.|::1
+2024-11-17 04:57:30|abc|True|Login successful|::1
+2024-11-17 04:57:30|abc|False|Error: Thread was being aborted.|::1
+2024-11-17 05:03:05|abc|True|Login successful|::1
+2024-11-17 05:03:05|abc|False|Error: Thread was being aborted.|::1
+2024-11-17 05:11:33|abc|True|Login successful|::1
+2024-11-17 05:11:34|abc|False|Error: Thread was being aborted.|::1
+2024-11-17 06:24:16|abc|True|Login successful|::1
+2024-11-17 06:24:16|abc|False|Error: Thread was being aborted.|::1
+2024-11-17 06:34:10|abc|True|Login successful|::1
+2024-11-17 06:34:10|abc|False|Error: Thread was being aborted.|::1
+2024-11-17 06:34:53|abc|True|Login successful|::1
+2024-11-17 06:34:53|abc|False|Error: Thread was being aborted.|::1
+2024-11-17 07:01:50|abc|True|Login successful|::1
+2024-11-17 07:01:50|abc|False|Error: Thread was being aborted.|::1
+2024-11-17 07:03:11|123|True|Login successful|::1
+2024-11-17 07:03:12|123|False|Error: Thread was being aborted.|::1
+2024-11-17 07:16:50|1234|False|Invalid credentials|::1
+2024-11-17 07:16:57|1234|False|Invalid credentials|::1
+2024-11-17 07:17:10|123|False|Invalid credentials|::1
+2024-11-17 07:17:16|123|True|Login successful|::1
+2024-11-17 07:17:16|123|False|Error: Thread was being aborted.|::1
+2024-11-17 07:17:35|1|False|Invalid credentials|::1
+2024-11-17 07:17:41|123|True|Login successful|::1
+2024-11-17 07:17:41|123|False|Error: Thread was being aborted.|::1
+2024-11-17 07:24:25|123|True|Login successful|::1
+2024-11-17 07:24:25|123|False|Error: Thread was being aborted.|::1
+2024-11-17 07:28:07|123|True|Login successful|::1
+2024-11-17 07:28:07|123|False|Error: Thread was being aborted.|::1
+2024-11-17 07:29:31|admin|False|Error: Thread was being aborted.|::1
+2024-11-17 07:29:44|a|False|Invalid credentials|::1
+2024-11-17 07:29:52|addy1|False|Invalid credentials|::1
+2024-11-17 07:31:59|123|True|Login successful|::1
+2024-11-17 07:31:59|123|False|Error: Thread was being aborted.|::1
+2024-11-17 07:32:14|admin|False|Error: Thread was being aborted.|::1
+2024-11-17 07:33:32|addy|True|Login successful|::1
+2024-11-17 07:33:32|addy|False|Error: Thread was being aborted.|::1
+2024-11-17 07:53:06|123|True|Login successful|::1
+2024-11-17 07:53:06|123|False|Error: Thread was being aborted.|::1
+2024-11-17 07:54:16|123|True|Login successful|::1
+2024-11-17 07:54:16|123|False|Error: Thread was being aborted.|::1
+2024-11-17 07:55:59|123|True|Login successful|::1
+2024-11-17 07:55:59|123|False|Error: Thread was being aborted.|::1
+2024-11-17 07:56:18|123|True|Login successful|::1
+2024-11-17 07:56:19|123|False|Error: Thread was being aborted.|::1
+2024-11-17 08:00:38|admin|False|Error: Thread was being aborted.|::1
